@@ -1,2 +1,2 @@
 #!/bin/bash
-ln --reference=hello olleh
+ln 354 olleh
