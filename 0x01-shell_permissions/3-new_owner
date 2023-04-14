@@ -1,2 +1,2 @@
 #!/bin/bash 
-chgrps
+chgrp betty hello
